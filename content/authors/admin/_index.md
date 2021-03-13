@@ -72,6 +72,6 @@ highlight_name: false
 
 I am a scientific mind who is trying to understand the etiology of diseases. One of my main interests is shedding light on pathological mechanisms in terms of epigenetic regulation.
 
-My background is focused on the use of programming languages to answer biological questions, also including statistics and basic experimental techniques. I declare myself as a curious mind and also get involved in various research areas such as synthetic biology and Artificial Intelligence (AI).
+My background is focused on the use of programming languages to answer biological questions, also including statistics and basic experimental techniques. I declare myself as a curious person, that's why I also get involved in various research areas such as synthetic biology and Artificial Intelligence (AI).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
