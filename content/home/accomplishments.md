@@ -36,7 +36,7 @@ item:
   date_start: "2019-12-15"
   description: ""
   organization: Udemy
-  organization_url: https://www.udemy.com/
+  organization_url: ""
   title: Machine learning from A to Z: R and Python for Data Science
   url: ""
 # - certificate_url: https://www.datacamp.com
