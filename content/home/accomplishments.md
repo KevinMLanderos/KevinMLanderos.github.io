@@ -25,7 +25,7 @@ date_format: Jan 2006
 item:
 - certificate_url: ""
   date_end: ""
-  date_start: "2021-02-31"
+  date_start: "2021-02-28"
   description: ""
   organization: Mas Ciencia por México
   organization_url: https://www.masciencia.org/
