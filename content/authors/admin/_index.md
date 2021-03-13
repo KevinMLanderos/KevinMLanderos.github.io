@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a science mind who is trying to understand the etiology of diseases. One of the main interests is sheding light of this mechanisms in terms of epigentec regulation.
+I am a scientific mind who is trying to understand the etiology of diseases. One of the main interests is shedding light on these mechanisms in terms of epigenetic regulation.
 
-My background is focused on the of programming languages to answer biological question, also including statistics and basic experimental techniques. I declare myself as a curious mind and also get involved in other research areas such as synthetic biology and Artificial Inteligence (AI).
+My background is focused on the use of programming languages to answer biological questions, also including statistics and basic experimental techniques. I declare myself as a curious mind and also get involved in other research areas such as synthetic biology and Artificial Intelligence (AI).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
