@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: ""
-  date_end: "2021-02-31"
-  date_start: ""
+  date_end: ""
+  date_start: "2021-02-31"
   description: ""
   organization: Mas Ciencia por México
   organization_url: https://www.masciencia.org/
