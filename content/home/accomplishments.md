@@ -23,6 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
+- certificate_url: ""
+  date_end: "2021-02-31"
+  date_start: ""
+  description: ""
+  organization: Mas Ciencia por México
+  organization_url: https://www.masciencia.org/
+  title: 'DNA Essay Judge'
+  url: ""
 - certificate_url: https://drive.google.com/file/d/1RyogaWwHc9YNQ2aorqNREjB8Bb-2bu0Z/view?usp=sharing
   date_end: "2020-09-15"
   date_start: "2020-06-01"
@@ -38,13 +46,5 @@ item:
   organization: Udemy
   organization_url: https://www.udemy.com/
   title: 'Machine learning from A to Z: R and Python for Data Science'
-  url: ""
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
   url: ""
 ---
