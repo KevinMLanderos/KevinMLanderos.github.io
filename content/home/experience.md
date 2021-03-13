@@ -29,18 +29,26 @@ experience:
     date_start: '2021-08-01'
     date_end: ''
     description: Bioinformatic analysis of data.
+    
+  - title: Undergraduate Researcher
+    company: Center for Genomic Sciences
+    company_url: 'https://www.ccg.unam.mx/'
+    location: Morelos, Mexico
+    date_start: '2020-08-01'
+    date_end: ''
+    description: Research focused on Synthetic Biology.
 
         
-  - title: Professor
-    company: University X
-    company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+ # - title: Professor
+ #   company: University X
+ #   company_url: ''
+ #   location: California
+ #   date_start: '2016-01-01'
+ #   date_end: '2016-12-31'
+ #   description: |2-
+ #       Responsibilities include:
+ #       
+ #       * Analysing
+ #       * Modelling
+ #       * Deploying
 ---
