@@ -25,7 +25,7 @@ interests:
 # Education to show in About widget
 education:
   courses: 
-    - course: BSc in Genomic Sciences
+  - course: BSc in Genomic Sciences
     institution: UNAM
     year: expected 2022
   <!---
