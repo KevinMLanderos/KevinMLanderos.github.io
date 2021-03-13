@@ -29,7 +29,7 @@ item:
   description: ""
   organization: AI Lab School
   organization_url: https://ailabschool.com/
-  title: Artificial Intelligence Course
+  title: 'Artificial Intelligence Course'
   url: ""
 - certificate_url: https://drive.google.com/file/d/1Oc7grbxEoNMlsTurQI7dGgSkusIVe-o8/view?usp=sharing
   date_end: "2020-01-30"
@@ -37,7 +37,7 @@ item:
   description: ""
   organization: Udemy
   organization_url: https://www.udemy.com/
-  title: Machine learning from A to Z: R and Python for Data Science
+  title: 'Machine learning from A to Z: R and Python for Data Science'
   url: ""
 - certificate_url: https://www.datacamp.com
   date_end: "2017-12-21"
