@@ -24,7 +24,11 @@ interests:
 
 # Education to show in About widget
 education:
-  courses: <!---
+  courses: 
+    - course: BSc in Genomic Sciences
+    institution: UNAM
+    year: expected 2022
+  <!---
   - course: PhD in Artificial Intelligence
     institution: Stanford University
     year: 2012
@@ -32,9 +36,6 @@ education:
     institution: Massachusetts Institute of Technology
     year: 2009
     --->
-  - course: BSc in Genomic Sciences
-    institution: UNAM
-    year: expected 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,14 +48,13 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/KevsGenomic
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  <!---
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ --->
 - icon: github
   icon_pack: fab
   link: https://github.com/KevinMLanderos
   <!---
+- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: fas
+  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ 
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/ --->
