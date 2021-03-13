@@ -30,14 +30,21 @@ experience:
     date_end: ''
     description: Bioinformatic analysis of data.
     
-  - title: Undergraduate Researcher
+  - title: SynBio Undergraduate Researcher
     company: Center for Genomic Sciences
     company_url: 'https://www.ccg.unam.mx/'
     location: Morelos, Mexico
     date_start: '2020-08-01'
     date_end: ''
-    description: Research focused on Synthetic Biology.
+    description: Systems Biology and Synthetic Biology Programm.
 
+  - title: AI Undergraduate Researcher
+    company: Center for Genomic Sciences
+    company_url: 'https://www.ccg.unam.mx/'
+    location: Morelos, Mexico
+    date_start: '2019-01-01'
+    date_end: '2020-06-01'
+    description: Computational Genomics Programm.
         
  # - title: Professor
  #   company: University X
