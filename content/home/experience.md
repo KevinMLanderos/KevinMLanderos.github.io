@@ -29,8 +29,8 @@ experience:
     date_start: '2021-08-01'
     date_end: ''
     description: |2-
-        Bioinformatic analysis of data.  
-        Tutor = Dr. Vijayanand Pandurangan
+        Center for Autoimmunity and Inflammation & Center for Cancer Immunotherapy  
+        Dr. Vijayanand Pandurangan
     
   - title: SynBio Undergraduate Researcher
     company: Center for Genomic Sciences
@@ -40,7 +40,7 @@ experience:
     date_end: ''
     description: |2-
         Systems Biology and Synthetic Biology Program.  
-        Tutor = Dr. José Utrilla Carreri
+        Dr. José Utrilla Carreri
 
   - title: AI Undergraduate Researcher
     company: Center for Genomic Sciences
@@ -50,7 +50,7 @@ experience:
     date_end: '2020-06-01'
     description: |2-
         Computational Genomics Program.  
-        Tutor = Dr. Carlos Mendez Cruz
+        Dr. Carlos Mendez Cruz
         
  # - title: Professor
  #   company: University X
