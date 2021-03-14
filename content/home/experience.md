@@ -28,8 +28,8 @@ experience:
     location: California, USA
     date_start: '2021-08-01'
     date_end: ''
-    description: |
-        Bioinformatic analysis of data.
+    description: |2-
+        Bioinformatic analysis of data.  
         Tutor = Dr. Vijayanand Pandurangan
     
   - title: SynBio Undergraduate Researcher
@@ -38,8 +38,8 @@ experience:
     location: Morelos, Mexico
     date_start: '2020-08-01'
     date_end: ''
-    description: |
-        Systems Biology and Synthetic Biology Program.
+    description: |2-
+        Systems Biology and Synthetic Biology Program.  
         Tutor = Dr. José Utrilla Carreri
 
   - title: AI Undergraduate Researcher
@@ -48,8 +48,8 @@ experience:
     location: Morelos, Mexico
     date_start: '2019-01-01'
     date_end: '2020-06-01'
-    description: |
-        Computational Genomics Program.
+    description: |2-
+        Computational Genomics Program.  
         Tutor = Dr. Carlos Mendez Cruz
         
  # - title: Professor
