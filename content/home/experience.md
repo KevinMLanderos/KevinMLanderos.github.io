@@ -36,7 +36,8 @@ experience:
     location: Morelos, Mexico
     date_start: '2020-08-01'
     date_end: ''
-    description: Systems Biology and Synthetic Biology Programm.
+    description: Systems Biology and Synthetic Biology Program.
+        Tutor: Dr. José Utrilla Carreri
 
   - title: AI Undergraduate Researcher
     company: Center for Genomic Sciences
@@ -44,7 +45,8 @@ experience:
     location: Morelos, Mexico
     date_start: '2019-01-01'
     date_end: '2020-06-01'
-    description: Computational Genomics Programm.
+    description: Computational Genomics Program.
+        Tutor: Dr. Carlos Mendez Cruz
         
  # - title: Professor
  #   company: University X
